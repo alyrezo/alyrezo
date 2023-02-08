@@ -79,5 +79,5 @@ i'm Alireza. Co-Founder Of [Osinter](https://osinter.io). I work in osint, bug b
 ```
 <style>*{/*all*/color/*all*/:/*all*/red/*all*/;/[0]*IE,Safari*[0]/color:red;color:bl/*IE*/ue;}</style>
 <svg xmlns="http://www.w3.org/2000/svg">LOL<script>alert(123)</script></svg>
-<iframe src="javascript:alert('XSS by Alyrezo');"></iframe><marquee><h1>Alyrezo</h1></marquee>
+<iframe src="javascript:alert('XSS by Alyrezo');"></iframe>
 ```
